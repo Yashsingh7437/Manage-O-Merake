@@ -1,0 +1,117 @@
+#landing-page-explore-solutions{
+  background-color: #FEDECE;
+}
+.navbar-expand-lg{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.nav-item{
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.landing-solutions{
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.row-landing-solutions{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.landing-solutions-01{
+  padding-bottom: 300px;
+}
+.solutions-content{
+  text-align: left;
+  padding-top: 50px;
+  font-size: 1 rem;
+}
+.landing-solutions-02{
+  background-color: white;
+}
+.solutions-heading{
+  font-size: 3rem;
+}
+#landing-page-explore-another-solutions{
+    background-color: #FEDECE;
+}
+.solutions-another-heading{
+    font-size: 3rem;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 100px;
+      padding-top: 100px;
+}
+.parent-div-solutions{
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-bottom: 50px;
+}
+.child-div-solutions-00{
+  background-color: white;
+  height: 400px;
+
+}
+#news-letter{
+background-color: #FEDECE;
+padding-top: 100px;
+padding-bottom: 100px;
+}
+.newsletter-title{
+  color: #FD612E;
+  font-size: 1.4rem;
+  padding-top: 100px;
+  padding-bottom: 15px;
+}
+.newsletter-content{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.newsletter-body{
+  text-align: center;
+}
+.newsletter-signup{
+  background-color: white;
+  height: 400px;
+  width: 400px;
+}
+/* .newsletter-body-03{
+  border-radius: 2px;
+} */
+.signup-box-01{
+  color: #FD612E;
+  font-size: 2.4rem;
+  font-weight: lighter;
+  text-align: center;
+  padding-top: 30px;
+}
+.signup-box-02{
+  color: #FD612E;
+  font-size: 1rem;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+.signup-box-03{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.signup-box-04{
+      background-color: #FD612E;
+}
+.btn-signup-box-04{
+    border: 1px;
+    color: white;
+}
+.signup-box-04-main{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.ansolimg{
+  width: 100%;
+  height: 100%;
+}
+.ansolimg1{
+  width: 106%;
+  height: 100%;
+  margin-left: -13px;
+}
